@@ -1,4 +1,4 @@
-update=dom 24 jul 2016 15:56:52 ART
+update=dom 11 sep 2016 22:16:59 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -34,8 +34,7 @@ SubpartFirstId=65
 NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
-LabSize=60
-ERC_TestSimilarLabels=1
+LabSize=40
 [eeschema]
 version=1
 LibDir=
@@ -70,3 +69,7 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=libraries/Lattice_iCE_FPGA
+LibName31=libraries/dcdc
+LibName32=libraries/olimex-ic
+LibName33=libraries/OLIMEX_Devices
+LibName34=libraries/sdram
