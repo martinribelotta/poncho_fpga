@@ -1,4 +1,4 @@
-update=mié 14 sep 2016 19:33:08 ART
+update=lun 19 sep 2016 23:23:27 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=docs/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=40
 [eeschema]
 version=1
 LibDir=
@@ -75,3 +65,13 @@ LibName33=libraries/OLIMEX_Devices
 LibName34=libraries/sdram
 LibName35=nxp_armmcu
 LibName36=stm32
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=docs/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=40

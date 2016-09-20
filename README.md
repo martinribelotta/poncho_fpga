@@ -5,17 +5,17 @@ Poncho FPGA basado en la placa [Olimex iCE40HX1K-EVB](https://www.olimex.com/Pro
 > Licencia Apache 2.0 relicenciable a CIAA 1.0
 
 ## Caracteristicas
-  - FPGA iCE40HX1K soportada por el proyecto IceStorm
+  - FPGA iCE40HX4K soportada por el proyecto IceStorm
   - 8-64MB de SDRAM
   - 64Mb SPI flash
-  - Oscilador 100MHz on board
-  - 8 salidas LVDS o 18 salidas single ended mas clock
+  - Oscilador 50/100MHz on board
+  - 52 I/O digitales 
 
 ## Lista de tareas
   - [x] Esqematico preeliminar
-  - [ ] Revision del esquematico
-  - [ ] Asignado de footprints
-  - [ ] Place and route
+  - [ ] Revision del esquematico (WIP)
+  - [ ] Asignado de footprints (WIP)
+  - [ ] Place and route (WIP)
   - [ ] Archivos de fabricacion
 
 ## Schematic
