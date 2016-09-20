@@ -1,4 +1,4 @@
-update=dom 11 sep 2016 22:16:59 ART
+update=mié 14 sep 2016 19:33:08 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -73,3 +73,5 @@ LibName31=libraries/dcdc
 LibName32=libraries/olimex-ic
 LibName33=libraries/OLIMEX_Devices
 LibName34=libraries/sdram
+LibName35=nxp_armmcu
+LibName36=stm32
