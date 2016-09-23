@@ -904,83 +904,83 @@ F 3 "" H 14950 7925 60  0000 C CNN
 	1    14950 7925
 	-1   0    0    -1  
 $EndComp
-Text Label 10550 3225 0    60   ~ 0
-RAM_D1
-Text Label 10550 3125 0    60   ~ 0
-RAM_D2
-Text Label 10550 3025 0    60   ~ 0
-RAM_D3
-Text Label 10550 2925 0    60   ~ 0
-RAM_D4
-Text Label 10550 2825 0    60   ~ 0
-RAM_D5
-Text Label 10550 2725 0    60   ~ 0
-RAM_D6
-Text Label 10550 2625 0    60   ~ 0
-RAM_D7
-Text Label 10550 1725 0    60   ~ 0
-RAM_A1
-Text Label 10550 1625 0    60   ~ 0
-RAM_A2
-Text Label 10550 1525 0    60   ~ 0
-RAM_A3
-Text Label 8150 3525 2    60   ~ 0
-RAM_A4
-Text Label 10550 1825 0    60   ~ 0
-RAM_A11
-Text Label 10550 2025 0    60   ~ 0
-RAM_A14
-Text Label 10550 1925 0    60   ~ 0
-RAM_A15
-Text Label 10550 2125 0    60   ~ 0
-RAM_CS
-Text Label 10550 2225 0    60   ~ 0
-RAM_RAS
-Text Label 10550 2325 0    60   ~ 0
-RAM_CAS
-Text Label 10550 2525 0    60   ~ 0
-RAM_DQML
-Text Label 10550 2425 0    60   ~ 0
-RAM_RDnWR
 Text Label 10550 3325 0    60   ~ 0
-RAM_D0
-Text Label 8150 2325 2    60   ~ 0
-RAM_D8
-Text Label 8150 2225 2    60   ~ 0
-RAM_D9
-Text Label 8150 2125 2    60   ~ 0
-RAM_D10
-Text Label 8150 2025 2    60   ~ 0
-RAM_D11
-Text Label 8150 1925 2    60   ~ 0
-RAM_D12
-Text Label 8150 1825 2    60   ~ 0
-RAM_D13
-Text Label 8150 1725 2    60   ~ 0
-RAM_D14
-Text Label 8150 3425 2    60   ~ 0
-RAM_A5
-Text Label 8150 3325 2    60   ~ 0
-RAM_A6
-Text Label 8150 3225 2    60   ~ 0
-RAM_A7
-Text Label 8150 3125 2    60   ~ 0
-RAM_A8
-Text Label 8150 3025 2    60   ~ 0
-RAM_A9
-Text Label 8150 2925 2    60   ~ 0
-RAM_A10
-Text Label 8150 2825 2    60   ~ 0
-RAM_A12
-Text Label 8150 2725 2    60   ~ 0
-RAM_A13
-Text Label 8150 2625 2    60   ~ 0
-RAM_CKE
-Text Label 8150 2425 2    60   ~ 0
-RAM_DQMH
-Text Label 8150 2525 2    60   ~ 0
-RAM_CLK
+RAM_D1
+Text Label 10550 3225 0    60   ~ 0
+RAM_D2
+Text Label 10550 3125 0    60   ~ 0
+RAM_D3
+Text Label 10550 3025 0    60   ~ 0
+RAM_D4
+Text Label 10550 2925 0    60   ~ 0
+RAM_D5
+Text Label 10550 2825 0    60   ~ 0
+RAM_D6
+Text Label 10550 2725 0    60   ~ 0
+RAM_D7
+Text Label 10550 1825 0    60   ~ 0
+RAM_A1
+Text Label 10550 1725 0    60   ~ 0
+RAM_A2
+Text Label 10550 1625 0    60   ~ 0
+RAM_A3
+Text Label 10550 1525 0    60   ~ 0
+RAM_A4
+Text Label 10550 1925 0    60   ~ 0
+RAM_A11
+Text Label 10550 2125 0    60   ~ 0
+RAM_A14
+Text Label 10550 2025 0    60   ~ 0
+RAM_A15
+Text Label 10550 2225 0    60   ~ 0
+RAM_CS
+Text Label 10550 2325 0    60   ~ 0
+RAM_RAS
+Text Label 10550 2425 0    60   ~ 0
+RAM_CAS
+Text Label 10550 2625 0    60   ~ 0
+RAM_DQML
+Text Label 10550 2525 0    60   ~ 0
+RAM_RDnWR
 Text Label 10550 3425 0    60   ~ 0
+RAM_D0
+Text Label 8150 2425 2    60   ~ 0
+RAM_D8
+Text Label 8150 2325 2    60   ~ 0
+RAM_D9
+Text Label 8150 2225 2    60   ~ 0
+RAM_D10
+Text Label 8150 2125 2    60   ~ 0
+RAM_D11
+Text Label 8150 2025 2    60   ~ 0
+RAM_D12
+Text Label 8150 1925 2    60   ~ 0
+RAM_D13
+Text Label 8150 1825 2    60   ~ 0
+RAM_D14
+Text Label 8150 3525 2    60   ~ 0
+RAM_A5
+Text Label 8150 3425 2    60   ~ 0
+RAM_A6
+Text Label 8150 3325 2    60   ~ 0
+RAM_A7
+Text Label 8150 3225 2    60   ~ 0
+RAM_A8
+Text Label 8150 3125 2    60   ~ 0
+RAM_A9
+Text Label 8150 3025 2    60   ~ 0
+RAM_A10
+Text Label 8150 2925 2    60   ~ 0
+RAM_A12
+Text Label 8150 2825 2    60   ~ 0
+RAM_A13
+Text Label 8150 2725 2    60   ~ 0
+RAM_CKE
+Text Label 8150 2525 2    60   ~ 0
+RAM_DQMH
+Text Label 8150 2625 2    60   ~ 0
+RAM_CLK
+Text Label 8150 1725 2    60   ~ 0
 RAM_D15
 Text Label 10650 8925 0    60   ~ 0
 LED1
@@ -1151,7 +1151,7 @@ SPI_CS
 Text Label 13800 2425 2    60   ~ 0
 SPI_MOSI
 Text Label 14300 2325 0    60   ~ 0
-SPI_SCK
+SPI_CLK
 Text Label 14300 2225 0    60   ~ 0
 SPI_MISO
 Text Label 15100 3325 2    60   ~ 0
@@ -1173,9 +1173,9 @@ CAN_RD
 Text Label 15100 2825 2    60   ~ 0
 CAN_TD
 Text Label 15100 2525 2    60   ~ 0
-232_RX
+RxD
 Text Label 15100 2625 2    60   ~ 0
-232_TX
+TxD
 Text Label 15100 2425 2    60   ~ 0
 I2C_SCL
 Text Label 15100 2325 2    60   ~ 0
@@ -1948,25 +1948,25 @@ Text Label 5025 7600 0    60   ~ 0
 FPGA_IO_BANK1_12
 Text Label 5025 7700 0    60   ~ 0
 FPGA_IO_BANK1_13
-Text Label 5025 7800 0    60   ~ 0
-FPGA_IO_BANK1_14
-Text Label 5025 7900 0    60   ~ 0
-FPGA_IO_BANK1_15
 Text Label 5025 8000 0    60   ~ 0
-FPGA_IO_BANK1_16
+FPGA_IO_BANK1_14
 Text Label 5025 8100 0    60   ~ 0
-FPGA_IO_BANK1_17
+FPGA_IO_BANK1_15
 Text Label 5025 8200 0    60   ~ 0
-FPGA_IO_BANK1_18
+FPGA_IO_BANK1_16
 Text Label 5025 8300 0    60   ~ 0
-FPGA_IO_BANK1_19
+FPGA_IO_BANK1_17
 Text Label 5025 8400 0    60   ~ 0
-FPGA_IO_BANK1_20
+FPGA_IO_BANK1_18
 Text Label 5025 8500 0    60   ~ 0
-FPGA_IO_BANK1_21
+FPGA_IO_BANK1_19
 Text Label 5025 8600 0    60   ~ 0
-FPGA_IO_BANK1_22
+FPGA_IO_BANK1_20
 Text Label 5025 8700 0    60   ~ 0
+FPGA_IO_BANK1_21
+Text Label 5025 8800 0    60   ~ 0
+FPGA_IO_BANK1_22
+Text Label 5025 8900 0    60   ~ 0
 FPGA_IO_BANK1_23
 Text Label 6350 6175 0    60   ~ 0
 FPGA_IO_BANK2_0
@@ -2230,8 +2230,6 @@ NoConn ~ 5025 6000
 NoConn ~ 5025 6100
 NoConn ~ 5025 6200
 NoConn ~ 5025 6300
-NoConn ~ 5025 8800
-NoConn ~ 5025 8900
 NoConn ~ 5025 9000
 NoConn ~ 5025 9100
 Text Notes 2000 5550 0    40   ~ 0
@@ -3779,4 +3777,8 @@ Wire Wire Line
 Wire Wire Line
 	9750 13525 9850 13525
 Connection ~ 9750 13375
+Text Label 5025 7800 0    60   ~ 0
+BUT1
+Text Label 5025 7900 0    60   ~ 0
+EXTCLK
 $EndSCHEMATC
