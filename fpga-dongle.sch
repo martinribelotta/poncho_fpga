@@ -53,17 +53,6 @@ $EndDescr
 Text Notes 3525 950  0    100  Italic 20
 Power Supply
 $Comp
-L GND #PWR01
-U 1 1 579395D3
-P 2300 2025
-F 0 "#PWR01" H 2300 1775 50  0001 C CNN
-F 1 "GND" H 2300 1875 50  0000 C CNN
-F 2 "" H 2300 2025 60  0000 C CNN
-F 3 "" H 2300 2025 60  0000 C CNN
-	1    2300 2025
-	-1   0    0    -1  
-$EndComp
-$Comp
 L C_Small C5
 U 1 1 579395D5
 P 2500 1525
@@ -1663,17 +1652,6 @@ F 2 "" H 1950 2025 60  0000 C CNN
 F 3 "" H 1950 2025 60  0000 C CNN
 	1    1950 2025
 	-1   0    0    -1  
-$EndComp
-$Comp
-L TVS D1
-U 1 1 57D6C6A1
-P 2300 1550
-F 0 "D1" H 2150 1425 40  0000 C CNN
-F 1 "SMBJ6.0A" H 2400 1425 40  0000 C CNN
-F 2 "Diodes_SMD:DO-214AB" H 2300 1550 50  0001 C CNN
-F 3 "" H 2300 1550 50  0000 C CNN
-	1    2300 1550
-	0    1    1    0   
 $EndComp
 $Comp
 L L_Small L2
@@ -3527,11 +3505,6 @@ Wire Wire Line
 	1750 1225 1950 1225
 Wire Wire Line
 	1950 1225 1950 2025
-Wire Wire Line
-	2300 1250 2300 1125
-Connection ~ 2300 1125
-Wire Wire Line
-	2300 2025 2300 1850
 Wire Wire Line
 	2950 3575 2950 3475
 Wire Wire Line
