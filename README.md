@@ -13,10 +13,13 @@ Poncho FPGA basado en la placa [Olimex iCE40HX1K-EVB](https://www.olimex.com/Pro
 
 ## Lista de tareas
   - [x] Esqematico preeliminar
-  - [x] Revision del esquematico (WIP)
-  - [x] Asignado de footprints (WIP)
-  - [x] Place and route (WIP)
-  - [ ] Archivos de fabricacion
+  - [x] Revision del esquematico
+  - [x] Asignado de footprints
+  - [x] Place and route
+  - [x] Archivos de fabricacion
+  - [x] Fabricación del PCB
+  - [x] BOM (TBC)
+  - [ ] Montaje y test
 
 ## Schematic
 ![esquematico](docs/fpga-dongle.png)
